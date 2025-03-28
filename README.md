@@ -4,7 +4,7 @@ A React application that integrates with the Reqres API to perform basic user ma
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://usermanagement2803.netlify.app/login) 
+https://usermanagement2803.netlify.app/login
 
 ## ✨ Features
 
